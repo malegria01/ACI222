@@ -19,10 +19,10 @@ Introducción a Clases y Objetos <a href="https://github.com/malegria01/ACI222/b
 | Lab.00 (https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab00_software.ipynb) | Installing Software on Google Colab for IBM3202 tutorials                           | pyRosetta [1], GROMACS [2], SBM-enhanced GROMACS [3]              
 
 
-| Clase  | Description                           | Material                                                  |
-|--------|-------------------------------------------------------------------------------------|-------------------------------------------------------|
+| Clase         | Description                           | Material                                                  |
+|---------------|-------------------------------------------------------------------------|-------------------------------------------------------|
 | Clase 3 (02 Abril) |  Introducción a Clases y Objetos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionClasesObjetos.ipynb) |
-| Clase 3 (02 Abril) |  Introducción a Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https: //colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionPython1.ipynb)
+| Clase 3 (02 Abril) |  Introducción a Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https: //colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionPython1.ipynb) |
 
 
 
