@@ -9,5 +9,5 @@ Este repositorio contiene material suplementario al curso online de Programació
 
 | Clase| Material      
 |:--------------------|:--------------------:|
-| Clase 3 (2 abril)| <a href="https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/Introduccion/1_TiposDatos/tipos-datos.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a> |
+| Clase 3 (02 Abril)| [Introduciion a Clases y Objetos]<a href="https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionClasesObjetos.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a> |
 
