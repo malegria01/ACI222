@@ -12,4 +12,5 @@ Este repositorio contiene material suplementario al curso online de Programació
 | Clase         | Description                           | Material                                                  |
 |---------------|-------------------------------------------------------------------------|-------------------------------------------------------|
 | Clase 3 (02 Abril) |  Introducción a Clases y Objetos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionClasesObjetos.ipynb) |
+| Clase 3 (02 Abril) |  Introducción a Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionPython1.ipynb) |
 
