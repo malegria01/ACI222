@@ -1,6 +1,5 @@
  
-![imagen](https://user-images.githubusercontent.com/8738096/161391104-c50e794a-b277-4e52-9aff-753ebe40f770.png)
-
+![imagen](https://user-images.githubusercontent.com/8738096/161391140-fffc587b-935e-4418-bb73-ca9645b1bf05.png)
 # Curso Programación Aplicada ACI222 Facultad Ingeniería y Negocios UDLA.
 
 ## Profesora: Melissa Alegría. 
