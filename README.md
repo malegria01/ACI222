@@ -1,6 +1,5 @@
  
-ACI222![imagen](https://user-images.githubusercontent.com/8738096/161391055-059490a0-a4d6-4f89-8019-9b7a8d2d8cc3.png)
-
+![imagen](https://user-images.githubusercontent.com/8738096/161391104-c50e794a-b277-4e52-9aff-753ebe40f770.png)
 
 # Curso Programación Aplicada ACI222 Facultad Ingeniería y Negocios UDLA.
 
