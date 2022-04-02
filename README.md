@@ -7,7 +7,7 @@
 
 Este repositorio contiene material suplementario al curso online de Programación Aplicada ACI2222.
 
-| Clase| Material      
+| Clase| Descripcion      
 |:--------------------|:--------------------:|
 | Clase 3 (02 Abril)  |1.1 Clases-Objetos (https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionClasesObjetos.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
@@ -17,3 +17,14 @@ Este repositorio contiene material suplementario al curso online de Programació
 Introducción a Clases y Objetos <a href="https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionClasesObjetos.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a> Introducción a Python <a href="https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionPython1.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a> |
 
 | Lab.00 (https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab00_software.ipynb) | Installing Software on Google Colab for IBM3202 tutorials                           | pyRosetta [1], GROMACS [2], SBM-enhanced GROMACS [3]              
+
+
+| Clase  | Description                           | Material                                                  |
+|--------|-------------------------------------------------------------------------------------|-------------------------------------------------------|
+| Clase 3 (02 Abril) |  Introducción a Clases y Objetos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionClasesObjetos.ipynb)
+
+
+
+
+| Lab.00 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab00_software.ipynb) | Installing Software on Google Colab for IBM3202 tutorials                           | pyRosetta [1], GROMACS [2], SBM-enhanced GROMACS [3]                                                        |
+| Lab.01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab01_intro.ipynb) | Warm-up on Colab and Brief Review of Biomolecular Databases                         |                                                                                                             |
