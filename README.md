@@ -7,7 +7,7 @@
 
 Este repositorio contiene material suplementario al curso online de Programación Aplicada ACI2222.
 
+| Clase| Material      
+|:--------------------|:--------------------:|
+| Clase 3 (2 abril)| <a href="https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/Introduccion/1_TiposDatos/tipos-datos.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a> |
 
-
-<a href="https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/Introduccion/1_TiposDatos/tipos-datos.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
-<div align="center"> Recordá abrir en una nueva pestaña </div>
