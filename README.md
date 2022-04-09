@@ -15,5 +15,5 @@ Este repositorio contiene material suplementario al curso online de Programació
 | Clase 3 (02 Abril) |  Introducción a Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionPython1_ok.ipynb) |
 |Suplementario| Tutorial de diagramas de Clases con UML | Con esta [aplicación](https://www.lucidchart.com/pages/es/tutorial-de-diagrama-de-clases-uml) puedes realizar hasta 3 proyectos gratuitos de UML :wink: |
 | Clase 9 Abril | Introducción a Python 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase4-IntroduccionPython2.ipynb)  |
-
-Clase4-IntroduccionPython2.ipynb
+| EJ1 Evaluado | Ejercicio Evaluado 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase4-IntroduccionPython2.ipynb) |
+| EJ1 Evaluado | Ejercicio Evaluado 1  en zip | |
