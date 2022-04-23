@@ -7,6 +7,8 @@
 
 Este repositorio contiene material suplementario al curso online de Programación Aplicada ACI2222.
 
+Recordar que las clases 1 y 2 fueron teóricas.
+
 
 
 | Clase         | Description                           | Material                                                  |
