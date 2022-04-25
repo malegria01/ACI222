@@ -20,6 +20,6 @@ Recordar que las clases 1 y 2 fueron teóricas.
 | EJ1 Evaluado | Fecha entrega: Miercoles 13 abril 23:59 pm| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/EJ1_Evaluado-Republica.ipynb)  |
 | EJ1 Evaluado  en zip | Fecha entrega: Miercoles 13 abril 23:59 pm |  [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/EJ1_Evaluado-Republica.ipynb.zip)|
 | Clase 5 (23 Abril) | Estructuras de control y Funciones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Clase5_23Abril.ipynb)  |
-
+| Clase 5 (23 Abril) | Ejericio Evaluado 1: Soluciones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/EJ1_Evaluado_soluciones-Republica.ipynb)
 
 
