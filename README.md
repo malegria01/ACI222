@@ -23,5 +23,5 @@ Recordar que las clases 1 y 2 fueron teóricas.
 | Clase 5 (23 Abril) | Ejericio Evaluado 1: Soluciones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/EJ1_Evaluado_soluciones-Republica.ipynb) |
 | Cátedra 1 (20 Abril) | Catedra en jupyter-notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Catedra1.ipynb)  |
 | Cátedra 1 (20 Abril) | Catedra Descargar Zip| [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Catedra1.ipynb.zip)|  
-| Notas EJ1 | link a excel con comentarios | [Ver](https://docs.google.com/spreadsheets/d/1MGXR5bxBpn2MG941qaRPpXmWn36pxVcX/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
+| Notas EJ1 | link a excel con comentarios | Descargar en excel y abrir en excel para ver comentarios[link](https://docs.google.com/spreadsheets/d/1MGXR5bxBpn2MG941qaRPpXmWn36pxVcX/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
 
