@@ -26,6 +26,8 @@ Recordar que las clases 1 y 2 fueron teóricas.
 | Notas EJ1 | link a excel con comentarios | Descargar en excel y abrir en excel para ver comentarios [link](https://docs.google.com/spreadsheets/d/1MGXR5bxBpn2MG941qaRPpXmWn36pxVcX/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
 | Solucion Cátedra 1 (7 Mayo) | Solución Catedra en jupyter-notebook| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Catedra1_Respuestas.ipynb)  |
 | Clase (7 Mayo) | jupyter-notebook| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Clase6-7-Mayo.ipynb)  |
+| Ejercicio Evaluado 2 (7 Mayo) | Entrega: Viernes 13 hasta 11:59 am| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/EjercicioEvaluado2.ipynb)  |
+
 
 
 
