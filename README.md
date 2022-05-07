@@ -33,7 +33,7 @@ Recordar que las clases 1 y 2 fueron teóricas.
 
 ## Ejercicio Evaluado 2: 
 
-Grupos de 3 personas : Si no tienes grupo unete al que le falta algun integrante [aquí](https://docs.google.com/spreadsheets/d/1dAucR1VwRy-axemfOtuOyRiiS9rVg6-3n21pLPumX5Q/edit?usp=sharing)
+Grupos de 3 personas : Si no tienes grupo únete al que le falta algun integrante [aquí](https://docs.google.com/spreadsheets/d/1dAucR1VwRy-axemfOtuOyRiiS9rVg6-3n21pLPumX5Q/edit?usp=sharing)
 
 
 
