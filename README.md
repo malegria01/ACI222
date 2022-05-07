@@ -24,10 +24,19 @@ Recordar que las clases 1 y 2 fueron teóricas.
 | Cátedra 1 (20 Abril) | Catedra en jupyter-notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Catedra1.ipynb)  |
 | Cátedra 1 (20 Abril) | Catedra Descargar Zip| [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Catedra1.ipynb.zip)|  
 | Notas EJ1 | link a excel con comentarios | Descargar en excel y abrir en excel para ver comentarios [link](https://docs.google.com/spreadsheets/d/1MGXR5bxBpn2MG941qaRPpXmWn36pxVcX/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
-| Solucion Cátedra 1 (7 Mayo) | Solucuón Catedra en jupyter-notebook| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Catedra1_Respuestas.ipynb)  |
+| Solucion Cátedra 1 (7 Mayo) | Solución Catedra en jupyter-notebook| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Catedra1_Respuestas.ipynb)  |
+| Clase (7 Mayo) | jupyter-notebook| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Clase6-7-Mayo.ipynb)  |
+
+
+
+
+
 
 ## Link a Zoom clase 29 de Abril 
 https://udla.zoom.us/rec/share/vDMmTmFoX0yqJ0le33LTjlH8iChmuVWpiTmpMzru0SeEX2gFmaPXiWALLhYnrqXn.PgbFGEtC6nPXMDk3?startTime=1651347543000
 
 Código de acceso: Progra2022%
+
+
+
 
