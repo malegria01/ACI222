@@ -29,8 +29,7 @@ Recordar que las clases 1 y 2 fueron teóricas.
 | Ejercicio Evaluado 2 (7 Mayo) | Entrega: Viernes 13 hasta 11:59 am| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/EjercicioEvaluado2.ipynb)  |
 | Clase 7 (14 Mayo) | Descargar en Zip |  [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Clase7.zip)|
 | Clase 8 (28 Mayo) | Descargar en Zip |  [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Clase8.zip)|
-
-
+| Clase 8 (28 Mayo) | Parte1 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Clase8.ipynb)  |
 
 
 
