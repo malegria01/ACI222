@@ -41,6 +41,7 @@ Recordar que las clases 1 y 2 fueron teóricas.
 Grupos de 3 personas : Grupos Asignados al azar [aquí](https://docs.google.com/document/d/1V-zemMkYZrRa64arSNZpnStTd-ttsHxl/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
 
 
+## Notas Actualizadas al 28 Mayo 2022
 
 
 
