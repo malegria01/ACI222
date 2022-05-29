@@ -28,11 +28,15 @@ Recordar que las clases 1 y 2 fueron teóricas.
 | Clase 6 (7 Mayo) | jupyter-notebook| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Clase6-7-Mayo.ipynb)  |
 | Ejercicio Evaluado 2 (7 Mayo) | Entrega: Viernes 13 hasta 11:59 am| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/EjercicioEvaluado2.ipynb)  |
 | Clase 7 (14 Mayo) | Descargar en Zip |  [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Clase7.zip)|
+| Clase 78 (28 Mayo) | Descargar en Zip |  [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Clase8.zip)|
 
 
-## Ejercicio Evaluado 2: 
 
-Grupos de 3 personas : Si no tienes grupo únete al que le falta algun integrante [aquí](https://docs.google.com/spreadsheets/d/1dAucR1VwRy-axemfOtuOyRiiS9rVg6-3n21pLPumX5Q/edit?usp=sharing)
+
+
+## Ejercicio Evaluado 3: 
+
+Grupos de 3 personas : Grupos Asignados al azar [aquí](https://docs.google.com/spreadsheets/d/1dAucR1VwRy-axemfOtuOyRiiS9rVg6-3n21pLPumX5Q/edit?usp=sharing)
 
 
 
