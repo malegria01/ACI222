@@ -31,7 +31,6 @@ Recordar que las clases 1 y 2 fueron teóricas.
 | Clase 8 (28 Mayo) | Descargar en Zip |  [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Clase8.zip)|
 | Clase 8 (28 Mayo) | Parte1  Necesitas archivo [personas.txt](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/personas.txt)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Clase8.ipynb)  |
 | Clase 8 (28 Mayo) | Parte2  Necesitas archivo [censo.csv](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/censo.csv)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Clase8_parte2.ipynb)  |
-
 | Ejercicio Evaluado 3 (28 Mayo) | Descragar en Zip| [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/EJ3_Evaluado.zip)|  |
 
 
