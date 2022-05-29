@@ -23,7 +23,6 @@ Recordar que las clases 1 y 2 fueron teóricas.
 | Clase 5 (23 Abril) | Ejericio Evaluado 1: Soluciones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/EJ1_Evaluado_soluciones-Republica.ipynb) |
 | Cátedra 1 (20 Abril) | Catedra en jupyter-notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Catedra1.ipynb)  |
 | Cátedra 1 (20 Abril) | Catedra Descargar Zip| [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/Catedra1.ipynb.zip)|  
-| Notas EJ1 | link a excel con comentarios | Descargar en excel y abrir en excel para ver comentarios [link](https://docs.google.com/spreadsheets/d/1jc_KdOyA_B6Ojcglmcny-W_W0Dymr9VK/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
 | Solucion Cátedra 1 (7 Mayo) | Solución Catedra en jupyter-notebook| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Catedra1_Respuestas.ipynb)  |
 | Clase 6 (7 Mayo) | jupyter-notebook| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Clase6-7-Mayo.ipynb)  |
 | Ejercicio Evaluado 2 (7 Mayo) | Entrega: Viernes 13 hasta 11:59 am| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/EjercicioEvaluado2.ipynb)  |
@@ -41,7 +40,8 @@ Recordar que las clases 1 y 2 fueron teóricas.
 Grupos de 3 personas : Grupos Asignados al azar [aquí](https://docs.google.com/document/d/1V-zemMkYZrRa64arSNZpnStTd-ttsHxl/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
 
 
-## Notas Actualizadas al 28 Mayo 2022
+## Notas Actualizadas al 28 Mayo 2022: 
+Se subiran a Blackboard para mayor segurirdada, al igual que las clases grabadas.
 
 
 
