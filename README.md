@@ -41,7 +41,7 @@ Grupos de 3 personas : Grupos Asignados al azar [aquí](https://docs.google.com/
 
 
 ## Notas Actualizadas al 28 Mayo 2022: 
-Se subiran a Blackboard para mayor segurirdada, al igual que las clases grabadas.
+Se subiran a Blackboard para mayor seguridad, al igual que las clases grabadas.
 
 
 
