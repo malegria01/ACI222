@@ -38,7 +38,7 @@ Recordar que las clases 1 y 2 fueron teóricas.
 
 ## Ejercicio Evaluado 3: 
 
-Grupos de 3 personas : Grupos Asignados al azar [aquí](https://docs.google.com/spreadsheets/d/1dAucR1VwRy-axemfOtuOyRiiS9rVg6-3n21pLPumX5Q/edit?usp=sharing)
+Grupos de 3 personas : Grupos Asignados al azar [aquí](https://docs.google.com/document/d/1V-zemMkYZrRa64arSNZpnStTd-ttsHxl/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
 
 
 
