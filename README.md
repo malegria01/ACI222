@@ -36,6 +36,10 @@ Recordar que las clases 1 y 2 fueron teóricas.
 |Clase 10: Cátedra 2 | jupyter-notebook |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Catedra2.ipynb)
 |Cátedra 2 Pauta| jupyter-notebook |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Catedra2_Pauta.ipynb)
 |Clase 11| jupyter-notebook |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//malegria01/ACI222/blob/main/jupyter-notebook/Clase_18Junio.ipynb)
+|EJ4 Evaluado| jupyter-notebook | [Descargar](https://github.com/malegria01/ACI222/blob/main/jupyter-notebook/EjercicioEvaluado4.pdf)|
+
+
+
 
 
 
