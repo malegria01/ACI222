@@ -10,6 +10,8 @@ Este repositorio contiene material suplementario al curso online de Programació
 Recordar que las clases 1 y 2 fueron teóricas.
 
 
+# Examen 9 de Julio , obligatorio para todos!
+
 
 | Clase         | Description                           | Material                                                  |
 |---------------|-------------------------------------------------------------------------|-------------------------------------------------------|
